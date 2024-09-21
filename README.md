@@ -1,4 +1,4 @@
-## Autism Spectrum Disorder using CNN
+## EEG Based Autism Spectrum Disorder using CNN
 # Objective:
 Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by difficulties in social interaction, communication, and repetitive behaviors. Early detection of ASD is crucial for timely intervention and improved outcomes.
 # Problem Statement:
